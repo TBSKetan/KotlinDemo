@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Demo</string>
+    <string name="control_flow">Control Flow</string>
+    <string name="oop">OOP</string>
+</resources>
